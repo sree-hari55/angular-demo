@@ -1,0 +1,15 @@
+.header{
+    background-color: antiquewhite;
+    color:blue;
+    font-size: medium;
+    font-weight: initial;
+    font-style:normal;
+    text-decoration: none;
+}
+
+.grid{
+ float: right;
+ text-decoration: none;
+ color: aliceblue;
+ padding-top: 10px;
+}

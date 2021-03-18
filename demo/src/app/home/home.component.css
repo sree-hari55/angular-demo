@@ -1,0 +1,16 @@
+.img{
+    width: 100%;
+    background-color: rgb(196, 231, 255);
+    text-align: center;
+}
+.label{
+    font-size: medium;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-align: center;
+}
+
+.home{
+    padding-top: 20px;
+}
